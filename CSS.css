@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210814/pngtree-blue-purple-simple-gradient-background-image_760572.jpg);
+    background-size: cover;
+    }
+    .topnav {
+        background-color: rgb(116, 172, 233);
+        height:50PX ;
+        padding-left: 70%;
+    }
+    .topnav a{
+    color:blue; 
+    width: 40px;
+    padding-left:30PX
+    }
+    .cv1{
+        width: 220PX;
+    }
+     .insta {padding-right: 25px}
+     font- family: "Roboto"
+    font-weight: 400
